@@ -1,5 +1,7 @@
 requests
-bs4
+beautifulsoup4
 instaloader
 rich
 distro
+
+lxml>=5.1.0            # recommended parser for beautifulsoup4
